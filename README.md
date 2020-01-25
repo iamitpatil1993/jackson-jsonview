@@ -1,2 +1,2 @@
 # jackson-jsonview
-Demonstrates Jackson's @JsonView&lt;
+Demonstrates Jackson's @JsonView
